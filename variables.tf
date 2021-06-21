@@ -1,5 +1,5 @@
 
-variable ={"abc"
+variable ="abc"{
 type="string"
     }
 variable ="sg"{
