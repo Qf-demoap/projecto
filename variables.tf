@@ -1,4 +1,4 @@
 
 variable ={"abc"
-type=""
+type="string"
     }
