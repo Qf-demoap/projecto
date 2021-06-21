@@ -1,5 +1,7 @@
 
-variable ={"abc"
+variable ="abc"{
 type="string"
-var = "sg"
     }
+variable ="xyz"{
+type = "string"
+}
